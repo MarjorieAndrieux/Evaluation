@@ -1,0 +1,123 @@
+------------------------------------------------------------
+--        Script Postgre 
+------------------------------------------------------------
+
+
+-- Table: public.commune
+
+-- DROP TABLE public.commune;
+
+CREATE TABLE public.commune
+(
+  com_code integer NOT NULL,
+  com_nom character varying(50) NOT NULL,
+  CONSTRAINT prk_constraint_commune PRIMARY KEY (com_code)
+)
+WITH (
+  OIDS=FALSE
+);
+
+
+
+-- Table: public.jour
+
+-- DROP TABLE public.jour;
+
+CREATE TABLE public.jour
+(
+  jour_id SERIAL NOT NULL ,
+  jou_date date NOT NULL,
+  CONSTRAINT prk_constraint_jour PRIMARY KEY (jour_id)
+)
+WITH (
+  OIDS=FALSE
+);
+
+
+
+
+-- Table: public.produit
+
+-- DROP TABLE public.produit;
+
+CREATE TABLE public.produit
+(
+  pro_id SERIAL NOT NULL ,
+  pro_nom character varying(30) NOT NULL,
+  pro_leg boolean,
+  CONSTRAINT prk_constraint_produit PRIMARY KEY (pro_id)
+)
+WITH (
+  OIDS=FALSE
+);
+
+
+
+-- Table: public.stock
+
+-- DROP TABLE public.stock;
+
+CREATE TABLE public.stock
+(
+  sto_qte double precision NOT NULL,
+  sto_pert boolean,
+  spro_id integer NOT NULL,
+  sjour_id integer NOT NULL,
+  sto_id SERIAL NOT NULL ,
+  CONSTRAINT pk_stock PRIMARY KEY (sto_id),
+  CONSTRAINT fk_stock_jour_id FOREIGN KEY (sjour_id)
+      REFERENCES public.jour (jour_id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION,
+  CONSTRAINT fk_stock_pro_id FOREIGN KEY (spro_id)
+      REFERENCES public.produit (pro_id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION
+)
+WITH (
+  OIDS=FALSE
+);
+
+
+-- Table: public.vente
+
+-- DROP TABLE public.vente;
+
+CREATE TABLE public.vente
+(
+  ven_id SERIAL NOT NULL ,
+  ven_heur time with time zone NOT NULL,
+  vcom_code integer,
+  vjour_id integer,
+  CONSTRAINT prk_constraint_vente PRIMARY KEY (ven_id),
+  CONSTRAINT fk_vente_com_code FOREIGN KEY (vcom_code)
+      REFERENCES public.commune (com_code) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION,
+  CONSTRAINT fk_vente_jour_id FOREIGN KEY (vjour_id)
+      REFERENCES public.jour (jour_id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION
+)
+WITH (
+  OIDS=FALSE
+);
+
+
+
+-- Table: public.contenu
+
+-- DROP TABLE public.contenu;
+
+CREATE TABLE public.contenu
+(
+  con_qte double precision NOT NULL,
+  cven_id integer NOT NULL,
+  cpro_id integer NOT NULL,
+  CONSTRAINT prk_constraint_contenu PRIMARY KEY (cven_id, cpro_id),
+  CONSTRAINT fk_contenu_pro_id FOREIGN KEY (cpro_id)
+      REFERENCES public.produit (pro_id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION,
+  CONSTRAINT fk_contenu_ven_id FOREIGN KEY (cven_id)
+      REFERENCES public.vente (ven_id) MATCH SIMPLE
+      ON UPDATE NO ACTION ON DELETE NO ACTION
+)
+WITH (
+  OIDS=FALSE
+);

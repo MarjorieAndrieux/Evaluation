@@ -1,0 +1,1291 @@
+identifiant de la vente;nom du produit vendu;quantite vendue
+1;Haricot;4.2
+2;Concombre;1.5
+3;Figue fraîche;6
+4;Melon;0.1
+5;Papaye;1
+6;Framboise;5.6
+7;Betterave rouge;2
+8;Endive;2.1
+9;Clémentine;7.4
+10;Citrouille;2.6
+11;Framboise;5.6
+12;Coing;7.3
+13;Cerise;7.8
+14;Datte;0.9
+15;Courge;6.9
+16;Mangue;1.3
+17;Haricot;8
+18;Potimarron;4.6
+19;Céleri rave;2.2
+20;Epinard;3.4
+21;Datte;3.8
+22;Pamplemousse;7.4
+23;Panais;2.8
+24;Mirabelle;7.4
+25;Orange;1.1
+26;Abricot;3.2
+27;Betterave rouge;5.6
+28;Reine-claude;3.6
+29;Coing;2
+30;Mangue;2.1
+31;Pêche;4.1
+32;Asperge verte;6.9
+33;Litchi;4.7
+34;Groseille;1.4
+35;Datte;2.7
+36;Concombre;4.5
+37;Reine-claude;1.9
+38;Catalonia;2.8
+39;Quetsche;0.9
+40;Châtaigne;3.2
+41;Asperge verte;4.4
+42;Reine-claude;0.5
+44;Raisin;5.4
+45;Mirabelle;6.3
+46;Salsifis;7.9
+47;Chou frisé;6.3
+48;Litchi;0.1
+49;Groseille;6.4
+50;Laitue romaine;6.4
+51;Aubergine;6.1
+52;Mâche;3.2
+53;Kumquat;4.8
+54;Artichaut;7.8
+55;Navet;4.8
+56;Ail;2.6
+57;Citron;3.5
+58;Mûre;5.1
+59;Maïs;7.1
+60;Petit pois;6.2
+61;Tomate;6.8
+62;Kumquat;7.1
+63;Chou de Bruxelles;6.4
+64;Courgette;7.8
+65;Aubergine;0.1
+67;Chou-fleur;1
+68;Chou Romanesco;2.4
+69;Poivron;0.6
+70;Quetsche;1.2
+71;Chou blanc;0.8
+72;Quetsche;4.9
+73;Quetsche;4.1
+74;Cerise;1.2
+75;Fruit de la passion;3.8
+76;Framboise;0.7
+77;Asperge blanche;1.3
+78;Châtaigne;1
+79;Clémentine;3.4
+80;Datte;2.6
+81;Fenouil;1.9
+82;Poire;7.4
+83;Haricot;6.3
+84;Airelle;6.3
+85;Chou-rave;5.3
+86;Chou-chinois;2
+87;Grenade;2.3
+88;Mâche;3.1
+89;Radis;1.8
+90;Artichaut;4.7
+91;Chou-chinois;4.3
+92;Endive;3.9
+93;Chou-fleur;5.2
+94;Figue fraîche;8
+95;Maïs;3
+96;Marron;0.7
+97;Ananas;2.9
+98;Cassis;4.2
+99;Potimarron;4.7
+100;Chou-chinois;3
+102;Banane;2.1
+103;Mangue;0.3
+104;Radis;8
+105;Haricot;2.7
+106;Pois mange-tout;3.6
+107;Pomme de terre;3.1
+108;Epinard;0.8
+109;Aubergine;2.1
+110;Poireau;1
+111;Radis;0.3
+112;Myrtille;3.3
+113;Rhubarbe;0.8
+114;Maïs;6.4
+115;Fenouil;0.1
+116;Kumquat;3.6
+117;Brocoli;1
+118;Cassis;6
+119;Mirabelle;0.5
+120;Salsifis;5.1
+121;Ail;5.2
+122;Chou Romanesco;0.8
+123;Ail;3.7
+124;Chou rouge;3.1
+125;Pêche;2
+126;Chou rouge;4.9
+127;Ail;2.3
+128;Panais;6.7
+129;Oignon;6.6
+130;Chou-chinois;0.4
+131;Concombre;5.9
+132;Citrouille;6.8
+133;Asperge verte;0.1
+134;Ananas;3.4
+135;Grenade;2.3
+136;Poivron;7.8
+137;Concombre;1.7
+138;Fenouil;6.2
+139;Prune;1.4
+140;Poivron;5.3
+141;Prune;0.9
+142;Endive;4.3
+143;Radis;8
+144;Amande;5.9
+145;Mirabelle;5
+146;Artichaut;4.7
+147;Potimarron;0.5
+148;Poireau;7.8
+149;Châtaigne;2.3
+150;Artichaut;8
+151;Quetsche;2
+152;Betterave rouge;6
+153;Kumquat;0.9
+154;Chou-chinois;7.5
+155;Pêche;7.3
+156;Panais;5.1
+157;Pomme;4.5
+158;Concombre;4.6
+159;Noix;3.3
+160;Groseille;2
+161;Céleri rave;6.4
+162;Mûre;4.7
+163;Brocoli;1
+164;Pomme;5.5
+165;Poire;1.5
+166;Figue fraîche;2
+167;Céleri;3.3
+168;Fenouil;1.5
+169;Navet;3.8
+170;Coing;1.9
+171;Chou blanc;0.6
+172;Noix;1.9
+173;Mâche;6.6
+174;Potimarron;5.1
+175;Asperge blanche;1.6
+176;Carotte;1.7
+177;Asperge blanche;1.4
+178;Céleri;3.9
+179;Cresson;4.3
+180;Chou frisé;7.8
+181;Coing;6.1
+182;Orange;6.5
+183;Laitue romaine;1.4
+184;Grenade;3.1
+185;Raisin;2
+186;Ananas;0.8
+187;Reine-claude;3.9
+188;Reine-claude;1.1
+189;Concombre;5.4
+190;Navet;3.2
+191;Asperge blanche;1.6
+192;Orange;3
+193;Kaki;1.3
+194;Epinard;0.3
+195;Chou frisé;7.7
+196;Coing;2.5
+197;Navet;5
+198;Chou-rave;3.6
+199;Noix;5.7
+200;Citrouille;3.7
+201;Pois mange-tout;0.5
+202;Radis;6.2
+203;Avocat;1.1
+204;Poireau;0.7
+205;Haricot;7.7
+206;Cresson;0.9
+207;Chou frisé;6.6
+208;Orange sanguine;1.8
+209;Catalonia;4.3
+210;Potimarron;7
+211;Framboise;5.7
+212;Myrtille;3.5
+213;Salsifis;2.9
+214;Oignon;4.9
+215;Oignon;2.2
+216;Salsifis;4.9
+217;Raisin;3.4
+218;Mangue;5.2
+219;Courge;0.7
+220;Noisette;5.7
+221;Mirabelle;1.6
+222;Clémentine;1.8
+223;Pois mange-tout;2.9
+224;Nectarine;7.4
+225;Nectarine;6.2
+227;Orange sanguine;5.4
+228;Poivron;5.6
+229;Noisette;1.1
+230;Chou-fleur;5.7
+231;Pamplemousse;7.1
+232;Epinard;5.7
+233;Quetsche;7.2
+234;Fraise;2.4
+235;Concombre;0.2
+236;Cresson;0.4
+237;Avocat;7.6
+238;Mandarine;1.3
+239;Fruit de la passion;1.1
+240;Chou-fleur;2.2
+241;Clémentine;2.5
+242;Cerise;7.1
+243;Citrouille;5.2
+244;Coing;7.8
+245;Epinard;7.7
+246;Pêche;1.4
+248;Endive;8
+249;Citrouille;2.6
+250;Quetsche;4.1
+251;Poireau;4.7
+252;Brocoli;0.2
+253;Mangue;6.9
+254;Chou de Bruxelles;7.1
+255;Marron;1.6
+256;Laitue romaine;0.1
+257;Pois mange-tout;7.7
+258;Abricot;2.9
+259;Chou Romanesco;7.3
+260;Betterave rouge;1.2
+261;Noisette;4.7
+262;Concombre;5.7
+263;Chou Romanesco;6.4
+264;Pomme de terre;4.1
+265;Potiron;2.6
+266;Poireau;6.4
+267;Framboise;7.4
+268;Châtaigne;5.3
+269;Asperge blanche;3.9
+270;Abricot;2.8
+271;Concombre;4.8
+272;Kiwi;6.9
+273;Epinard;5.2
+274;Nectarine;3
+275;Epinard;3.8
+276;Citrouille;5.2
+277;Céleri branche;1
+278;Betterave rouge;3.6
+279;Concombre;3.1
+280;Pastèque;7.6
+281;Mandarine;7
+282;Cerise;2.5
+283;Mirabelle;6.3
+284;Orange;2.7
+285;Kiwi;2.6
+286;Tomate;7.1
+287;Abricot;2.6
+288;Reine-claude;1.9
+289;Poivron;3.9
+290;Asperge verte;4.6
+291;Kumquat;1.1
+292;Chou frisé;7.8
+293;Fruit de la passion;7.7
+294;Papaye;0.6
+295;Mûre;2.9
+296;Bette;4.5
+297;Courge;3.2
+298;Abricot;3.3
+299;Pâtisson;3.1
+300;Chou de Bruxelles;5.3
+301;Chou-fleur;4.8
+302;Pêche;0.5
+303;Pamplemousse;0.4
+304;Poireau;0.6
+305;Grenade;2.1
+306;Aubergine;0.8
+307;Chou-rave;1
+308;Navet;4.7
+309;Grenade;7.4
+310;Orange;1.7
+311;Abricot;4.2
+312;Clémentine;4.8
+313;Asperge verte;5.9
+314;Ananas;0.4
+315;Banane;3.7
+316;Salsifis;2.2
+317;Navet;3.5
+318;Kiwi;2.1
+319;Mâche;0.7
+320;Betterave rouge;6.4
+321;Myrtille;7.7
+322;Potimarron;0.6
+323;Reine-claude;2.2
+324;Aubergine;5
+325;Orange sanguine;1.1
+326;Céleri;6.9
+327;Cresson;5.2
+328;Catalonia;0.3
+329;Chou-chinois;3.5
+331;Papaye;0.5
+332;Bette;6.4
+333;Datte;2.5
+334;Coing;0.5
+335;Aubergine;2.3
+336;Chou-fleur;5.5
+337;Tomate;2.2
+338;Topinambour;3
+339;Courgette;6.8
+340;Reine-claude;1.6
+341;Châtaigne;7.6
+342;Chou de Bruxelles;1.9
+343;Fenouil;7.7
+344;Noix;4.5
+345;Betterave rouge;1.2
+346;Chou de Bruxelles;1.2
+347;Nectarine;0.8
+348;Kumquat;2.9
+349;Quetsche;7.2
+350;Potiron;1
+351;Betterave rouge;0.8
+352;Mâche;0.7
+353;Groseille;1.4
+354;Haricot;1.7
+355;Potiron;4.2
+356;Litchi;7.4
+357;Fruit de la passion;5.3
+358;Chou-fleur;2.7
+359;Tomate;5.6
+360;Avocat;1.9
+361;Chou frisé;1.9
+362;Kumquat;6.2
+363;Mâche;7.6
+364;Cassis;2.2
+365;Endive;1.8
+366;Quetsche;3.6
+367;Ananas;4.7
+368;Courge;1
+369;Ail;6.5
+370;Asperge blanche;1
+371;Orange sanguine;3.5
+372;Litchi;8
+373;Quetsche;2.4
+374;Catalonia;1.3
+375;Rhubarbe;0.8
+376;Cresson;0.6
+377;Kaki;3.3
+378;Potimarron;2.8
+379;Marron;3.1
+381;Radis;4.8
+382;Petit pois;1.4
+383;Chou-chinois;7.3
+384;Coing;5.1
+385;Reine-claude;6.4
+386;Chou-fleur;6
+387;Courgette;6.5
+388;Potiron;5.7
+389;Datte;2.7
+390;Mûre;7.9
+391;Poivron;2.6
+392;Rhubarbe;3.6
+393;Pomme;7.3
+394;Kumquat;5.4
+395;Chou rouge;4.3
+396;Courge;2.2
+397;Courge;3.2
+398;Litchi;5
+399;Coing;7.2
+400;Endive;2.8
+401;Navet;5
+402;Cerise;0.3
+403;Quetsche;0.9
+404;Chou-chinois;4.5
+405;Litchi;2.4
+406;Pâtisson;2.9
+407;Fenouil;2.6
+408;Céleri rave;1.1
+409;Marron;4.1
+410;Mangue;0.4
+411;Cresson;2.4
+412;Groseille;1
+413;Mûre;0.8
+414;Châtaigne;7.4
+415;Fenouil;6.6
+416;Poivron;2.5
+417;Amande;6.5
+418;Fraise;0.7
+419;Mirabelle;3.2
+420;Céleri;2.4
+421;Groseille;5.8
+422;Ail;2.1
+423;Radis;6.2
+424;Courgette;1.9
+425;Aubergine;1.3
+426;Carotte;3.2
+427;Epinard;0.3
+428;Tomate;6.9
+429;Nectarine;7.6
+430;Navet;0.4
+431;Brocoli;0.9
+432;Rhubarbe;2.6
+435;Céleri rave;0.1
+436;Endive;7.4
+437;Concombre;6.2
+438;Petit pois;6.8
+439;Coing;0.7
+440;Céleri branche;3.5
+441;Mangue;7.9
+442;Fraise;1.5
+443;Cima di Rapa;7.9
+444;Pomme de terre;5.6
+445;Pomme de terre;1.1
+446;Petit pois;2.1
+447;Panais;3.2
+448;Courge;7.4
+449;Pâtisson;1.7
+450;Banane;7.9
+451;Pamplemousse;6.9
+452;Mandarine;7.5
+453;Laitue romaine;6.8
+454;Artichaut;1.9
+455;Ananas;1.4
+456;Chou rouge;4.3
+457;Cima di Rapa;4.2
+458;Panais;2.4
+459;Quetsche;5
+461;Petit pois;0.9
+462;Betterave rouge;3.5
+463;Epinard;4.5
+464;Céleri;2.3
+465;Raisin;5.9
+466;Betterave rouge;2.1
+467;Kiwi;0.3
+468;Orange sanguine;7.6
+469;Chou-chinois;1
+470;Châtaigne;6.9
+471;Litchi;4.5
+472;Chou Romanesco;3.3
+473;Chou-fleur;6.4
+474;Myrtille;4.5
+475;Marron;6.3
+476;Myrtille;1.2
+477;Ail;5.2
+478;Chou rouge;2.5
+479;Chou-chinois;0.6
+480;Melon;4.7
+481;Courgette;5.4
+482;Salsifis;3.8
+483;Papaye;0.6
+484;Kumquat;3.9
+485;Orange;1
+486;Cima di Rapa;6.3
+487;Pastèque;7.4
+488;Potimarron;6.1
+489;Reine-claude;0.9
+490;Poire;6.6
+491;Myrtille;7
+492;Chou-chinois;6.3
+493;Mâche;2.7
+494;Asperge verte;6.9
+495;Airelle;4
+496;Courge;1.6
+497;Quetsche;6
+498;Reine-claude;2.1
+499;Brocoli;5.3
+500;Pâtisson;3.4
+501;Avocat;5.9
+502;Poire;5.3
+156;Poireau;1.9
+433;Potimarron;2.7
+433;Céleri;3.9
+203;Navet;2.9
+336;Ail;5.3
+480;Pamplemousse;5.6
+445;Catalonia;1.2
+144;Papaye;1.4
+105;Cresson;5.7
+28;Citrouille;6.5
+311;Mirabelle;3
+189;Oignon;7.3
+469;Salsifis;1.7
+296;Châtaigne;7.1
+364;Chou Romanesco;3.4
+454;Quetsche;7.2
+333;Fraise;4.5
+279;Chou rouge;2.7
+63;Kaki;5.7
+122;Aubergine;6.5
+264;Grenade;0.5
+288;Poire;3.9
+228;Navet;7.3
+216;Panais;7.6
+276;Topinambour;6.1
+66;Salsifis;5.4
+51;Citron;7.1
+171;Chou-rave;0.1
+293;Catalonia;5.6
+254;Artichaut;3.6
+324;Chou de Bruxelles;6.9
+340;Mirabelle;0.6
+225;Prune;5.5
+40;Kaki;3.4
+174;Fraise;4.7
+326;Haricot;1.9
+196;Panais;6.5
+320;Reine-claude;2.4
+382;Poire;4.3
+70;Orange;0.1
+450;Papaye;5
+437;Ail;1
+235;Quetsche;0.3
+343;Pamplemousse;5
+300;Cresson;2.8
+73;Chou-chinois;7.4
+348;Haricot;8
+343;Haricot;4.3
+104;Noix;2.5
+37;Kumquat;0.9
+260;Papaye;5.1
+196;Poivron;6.6
+264;Fraise;4.4
+422;Groseille;4
+426;Framboise;7.5
+170;Potimarron;0.6
+409;Ananas;1
+120;Grenade;4.8
+34;Catalonia;3.1
+88;Coing;1.7
+87;Avocat;1.9
+154;Artichaut;5.9
+164;Coing;4.8
+436;Reine-claude;2.9
+19;Groseille;7.2
+129;Pastèque;6.8
+324;Pastèque;2.9
+18;Courge;0.5
+146;Noisette;2.7
+103;Quetsche;3.2
+88;Grenade;1.2
+259;Noisette;5
+425;Tomate;1.5
+174;Citron;2.6
+91;Courge;7.7
+251;Concombre;6.9
+175;Cresson;5.7
+249;Chou frisé;3.4
+44;Rhubarbe;3.4
+383;Panais;6.5
+144;Marron;5.3
+216;Tomate;5.3
+359;Courge;1
+176;Maïs;4.3
+295;Pamplemousse;0.6
+403;Orange;1.7
+436;Haricot;5
+450;Noisette;6.6
+153;Asperge blanche;1.2
+478;Noisette;1.5
+289;Pastèque;6.8
+71;Brocoli;3.4
+345;Topinambour;7.1
+48;Artichaut;7
+180;Courge;7.1
+494;Mandarine;1.9
+162;Pêche;1.9
+400;Orange;4.5
+131;Navet;4.3
+367;Noix;4.8
+132;Kiwi;7.8
+44;Pamplemousse;7.8
+141;Haricot;7.9
+321;Pâtisson;1.3
+223;Figue fraîche;7
+254;Kiwi;1.5
+108;Clémentine;7.9
+94;Chou-rave;0.2
+142;Poireau;3.5
+137;Laitue romaine;4.8
+61;Endive;5.8
+462;Pêche;5.7
+474;Mûre;4.3
+464;Amande;7.1
+473;Quetsche;3.7
+498;Framboise;7.7
+148;Abricot;7.5
+197;Poire;4.7
+169;Noix;6.4
+307;Noisette;3.7
+180;Litchi;1.2
+219;Endive;2.2
+174;Raisin;6.5
+187;Marron;0.1
+57;Poire;0.9
+306;Noisette;2.9
+119;Maïs;5.3
+350;Fraise;3.4
+393;Asperge blanche;4.5
+112;Raisin;4.2
+170;Céleri;5.8
+145;Clémentine;0.6
+219;Bette;2.9
+186;Betterave rouge;2.2
+428;Topinambour;5.1
+351;Carotte;0.6
+178;Potimarron;7.9
+30;Mirabelle;4.9
+462;Châtaigne;7.3
+155;Châtaigne;2.4
+394;Céleri branche;4.1
+306;Chou Romanesco;2.3
+276;Chou-rave;6.1
+106;Concombre;1.2
+482;Litchi;3.6
+412;Abricot;2.5
+455;Carotte;1.8
+11;Poire;7.5
+278;Chou-fleur;0.4
+195;Chou-chinois;2
+40;Kumquat;4.1
+171;Quetsche;4.9
+160;Cima di Rapa;1.5
+266;Cassis;4.1
+85;Betterave rouge;6.9
+409;Chou frisé;0.4
+71;Pamplemousse;5.4
+301;Potiron;3.6
+449;Catalonia;6.8
+432;Coing;4.3
+312;Rhubarbe;0.1
+116;Céleri rave;7.2
+407;Chou de Bruxelles;7
+396;Kumquat;7.2
+196;Cerise;3.1
+296;Mirabelle;0.2
+469;Reine-claude;7.9
+222;Endive;0.9
+107;Maïs;3.3
+20;Ananas;0.1
+453;Mâche;6.8
+116;Pois mange-tout;4.3
+141;Papaye;0.6
+91;Chou-rave;3.8
+333;Potiron;7.4
+245;Fruit de la passion;7.9
+259;Pomme;2.9
+480;Chou-rave;4.1
+278;Céleri rave;1.6
+391;Mandarine;7.8
+246;Quetsche;3.1
+340;Cassis;5.6
+109;Endive;3
+292;Pêche;1.4
+218;Citron;2.6
+282;Chou-chinois;2.3
+241;Chou-chinois;5.2
+13;Laitue romaine;4.9
+3;Orange sanguine;3.5
+168;Petit pois;6.2
+177;Epinard;3.3
+449;Citron;7.4
+489;Kiwi;6.6
+190;Quetsche;0.5
+173;Fruit de la passion;1.1
+53;Artichaut;1.4
+77;Chou-rave;2.3
+119;Panais;1.3
+133;Figue fraîche;2.6
+225;Noisette;7.9
+162;Clémentine;4.8
+217;Cerise;5.9
+46;Chou de Bruxelles;7.6
+145;Cassis;3.3
+473;Asperge blanche;3.2
+221;Chou rouge;5.1
+293;Citrouille;4.3
+463;Noix;0.4
+402;Radis;0.8
+266;Pomme de terre;2.6
+222;Potiron;2.4
+200;Amande;0.5
+495;Poire;5.4
+78;Courgette;3.1
+349;Haricot;0.1
+204;Prune;0.2
+499;Orange sanguine;3.4
+35;Amande;5
+80;Rhubarbe;6.2
+170;Pastèque;6.6
+477;Châtaigne;5.5
+286;Asperge blanche;0.4
+468;Chou-fleur;6.6
+356;Kumquat;6.5
+101;Chou blanc;2
+98;Reine-claude;5.8
+375;Chou de Bruxelles;6.7
+20;Bette;2.3
+383;Airelle;0.2
+190;Airelle;7.3
+289;Mangue;5
+11;Grenade;7.9
+27;Pastèque;3.3
+389;Mâche;6.7
+23;Aubergine;7.4
+330;Myrtille;1.3
+154;Poire;7.2
+460;Pois mange-tout;1.6
+10;Clémentine;2.3
+204;Noix;2.8
+475;Betterave rouge;6.7
+278;Pêche;1.8
+242;Fenouil;6.3
+410;Céleri rave;1.4
+230;Chou Romanesco;5.4
+405;Framboise;4.6
+292;Datte;0.3
+62;Radis;1.7
+103;Fenouil;6.8
+429;Chou-chinois;4.6
+154;Kaki;4.1
+499;Kumquat;0.7
+365;Ail;4.4
+58;Salsifis;6.7
+331;Myrtille;7.1
+276;Rhubarbe;0.3
+10;Avocat;7.2
+83;Catalonia;2.2
+197;Pâtisson;4.4
+219;Figue fraîche;5.2
+39;Radis;3.1
+98;Catalonia;3.7
+122;Panais;0.2
+195;Pomme;6.4
+201;Céleri rave;7.8
+61;Myrtille;4.8
+127;Fenouil;5
+376;Chou-rave;7.9
+6;Courge;5
+70;Maïs;4.6
+285;Datte;6.3
+313;Noix;0.9
+384;Pêche;2.5
+402;Céleri rave;0.1
+401;Melon;3.1
+117;Chou frisé;6.9
+117;Myrtille;4.9
+333;Figue fraîche;2.7
+120;Poivron;2.9
+369;Chou-chinois;3.4
+496;Navet;3.1
+427;Litchi;2.7
+317;Panais;3.1
+356;Mirabelle;0.2
+98;Asperge blanche;3
+405;Nectarine;0.2
+496;Mangue;3.3
+287;Kaki;4.4
+267;Noix;0.7
+387;Pêche;3.3
+242;Noisette;0.4
+274;Prune;4.9
+331;Salsifis;4.3
+348;Ananas;2.9
+435;Cresson;2.6
+299;Pois mange-tout;3
+267;Quetsche;3
+47;Bette;5.7
+419;Cima di Rapa;1.8
+5;Groseille;6.5
+55;Bette;1.2
+310;Citrouille;2
+42;Céleri;5.4
+182;Asperge blanche;0.7
+98;Ail;2.9
+426;Fenouil;4.6
+109;Coing;3.5
+475;Reine-claude;5.2
+382;Chou de Bruxelles;6.6
+197;Citron;3.6
+276;Papaye;6.2
+206;Céleri;4.9
+115;Fraise;6.5
+24;Melon;1.5
+211;Asperge verte;4.2
+199;Chou-rave;4.7
+426;Citron;5.8
+300;Pois mange-tout;3.1
+273;Radis;2.3
+4;Coing;2.8
+297;Avocat;7.7
+464;Maïs;5.5
+494;Carotte;7.6
+282;Amande;5.8
+246;Ail;1.9
+481;Ananas;0.6
+331;Betterave rouge;2.3
+216;Pâtisson;3.3
+180;Cerise;4.4
+445;Pomme;4.4
+158;Pâtisson;0.8
+353;Pamplemousse;1.6
+341;Myrtille;5.9
+314;Bette;0.5
+143;Coing;6.3
+40;Myrtille;7.4
+428;Kumquat;1.9
+371;Betterave rouge;5.6
+36;Chou-chinois;5.2
+80;Chou de Bruxelles;3.2
+298;Pastèque;1.6
+400;Poireau;1.2
+7;Raisin;0.1
+56;Groseille;7.1
+319;Figue fraîche;4.2
+139;Catalonia;5
+353;Framboise;6.2
+453;Noix;6.3
+432;Chou frisé;3.8
+191;Mangue;2.2
+143;Framboise;6.7
+276;Kumquat;0.6
+409;Navet;2
+363;Kiwi;4
+3;Marron;7
+76;Catalonia;7.3
+237;Quetsche;1
+493;Chou frisé;2.8
+481;Maïs;5.3
+239;Chou frisé;7.5
+28;Abricot;0.9
+71;Artichaut;6.2
+266;Poivron;0.5
+376;Clémentine;2.8
+78;Céleri;3.4
+222;Céleri rave;1.2
+210;Figue fraîche;6.9
+478;Reine-claude;2.5
+213;Citrouille;3
+489;Banane;4.1
+392;Citrouille;0.5
+363;Catalonia;2.5
+438;Poivron;2.9
+32;Rhubarbe;8
+127;Panais;1.9
+427;Courgette;1.1
+287;Pamplemousse;3.2
+241;Papaye;6.3
+462;Asperge verte;6.2
+415;Laitue romaine;6.3
+470;Pastèque;5.8
+99;Chou Romanesco;6.8
+22;Céleri;5.4
+453;Céleri rave;5.9
+48;Pêche;5.3
+411;Quetsche;3.7
+264;Fruit de la passion;2.8
+176;Myrtille;5.7
+281;Clémentine;6.9
+272;Citrouille;1.8
+312;Mûre;2.5
+90;Fenouil;3.7
+106;Poire;3.8
+15;Marron;2.1
+436;Citrouille;3.6
+65;Chou-rave;5.6
+264;Airelle;0.9
+475;Panais;0.9
+90;Aubergine;2.8
+161;Betterave rouge;0.8
+58;Mandarine;2.4
+24;Potimarron;3.1
+295;Chou frisé;7.8
+63;Grenade;5.7
+55;Pois mange-tout;0.8
+479;Mangue;4.8
+22;Châtaigne;6.8
+447;Chou de Bruxelles;5.8
+149;Noisette;5.8
+39;Asperge verte;8
+294;Chou frisé;3.8
+217;Tomate;3.4
+454;Chou-fleur;4.1
+446;Noisette;7.4
+430;Panais;3.8
+15;Potiron;4.7
+28;Bette;3.6
+473;Reine-claude;0.1
+322;Raisin;1.4
+68;Papaye;5.6
+44;Carotte;1.5
+460;Pêche;0.8
+24;Chou rouge;6.3
+171;Mâche;0.9
+39;Céleri branche;3.3
+292;Chou de Bruxelles;7.8
+309;Asperge blanche;2.7
+36;Tomate;4.6
+245;Nectarine;1.8
+93;Figue fraîche;4.5
+76;Noix;2.6
+272;Raisin;0.3
+80;Endive;6.9
+432;Maïs;4.6
+43;Ail;0.6
+9;Mangue;4
+75;Poivron;7.3
+92;Pomme;3.5
+457;Marron;6.6
+500;Pomme;1
+64;Concombre;2
+26;Oignon;2.3
+230;Mirabelle;7.6
+73;Salsifis;2.5
+122;Chou-chinois;8
+40;Amande;4.7
+121;Poire;2.5
+40;Pois mange-tout;3.9
+73;Orange;1.1
+109;Potiron;2
+114;Chou de Bruxelles;1.5
+451;Céleri branche;0.3
+485;Citrouille;6
+230;Marron;6
+44;Nectarine;6.5
+30;Salsifis;6.1
+52;Citron;4.8
+134;Orange;4.1
+60;Cassis;5
+172;Asperge verte;5.4
+88;Catalonia;4.5
+141;Pomme de terre;2.1
+138;Laitue romaine;2.3
+116;Céleri branche;0.7
+161;Topinambour;2.1
+256;Radis;2.1
+97;Petit pois;6.8
+242;Kaki;1.2
+482;Bette;5
+11;Poivron;5.3
+104;Myrtille;4.4
+136;Ail;4.7
+113;Pâtisson;1.8
+496;Litchi;7.7
+187;Airelle;1.8
+194;Grenade;3.1
+318;Epinard;7.2
+203;Framboise;4.5
+105;Chou rouge;7.7
+129;Nectarine;7.8
+292;Artichaut;4.9
+265;Chou-rave;4.8
+18;Mûre;7.2
+285;Abricot;5.4
+122;Datte;2.8
+13;Radis;2.2
+13;Grenade;5.5
+299;Noix;3
+38;Haricot;4.1
+3;Ail;0.3
+47;Kaki;3.5
+302;Coing;1.6
+250;Mandarine;2.9
+69;Asperge verte;1
+39;Amande;1.8
+227;Asperge verte;6.8
+309;Chou de Bruxelles;3.4
+168;Courgette;1.9
+199;Poireau;0.1
+51;Papaye;3
+305;Kaki;4.6
+83;Fenouil;1.5
+40;Pamplemousse;3.2
+24;Mûre;6.5
+43;Raisin;6.8
+266;Citrouille;0.4
+47;Raisin;7.9
+253;Ananas;6.5
+220;Citron;7.3
+58;Chou-chinois;1.5
+152;Cima di Rapa;3
+113;Kaki;1.3
+252;Navet;6
+171;Haricot;4.4
+204;Fruit de la passion;7.7
+126;Chou blanc;5.3
+67;Figue fraîche;5.5
+248;Aubergine;7.9
+120;Tomate;5.2
+164;Groseille;7.6
+92;Mirabelle;7.4
+175;Papaye;1.7
+157;Pomme de terre;5.6
+232;Citrouille;1
+33;Avocat;4.2
+133;Ananas;7.6
+243;Potiron;2.5
+82;Airelle;1
+93;Laitue romaine;3.9
+234;Chou rouge;3.5
+307;Aubergine;4.2
+163;Myrtille;2.6
+39;Concombre;7.6
+75;Bette;2.3
+272;Mûre;4.1
+26;Cerise;0.3
+213;Navet;7.6
+195;Datte;3.5
+262;Cima di Rapa;3.3
+237;Betterave rouge;1
+84;Poivron;5.4
+153;Amande;3.1
+300;Salsifis;0.2
+121;Betterave rouge;2.9
+253;Maïs;4.9
+133;Pamplemousse;7.9
+271;Pêche;3.9
+140;Abricot;5.6
+67;Ail;3.1
+309;Litchi;7.5
+200;Reine-claude;5.3
+136;Endive;2.1
+65;Rhubarbe;2.8
+98;Abricot;3.1
+218;Mirabelle;5.6
+238;Groseille;0.9
+116;Marron;6.6
+145;Raisin;3.8
+134;Kumquat;7
+123;Pamplemousse;6.7
+67;Avocat;1.1
+191;Litchi;2.8
+232;Haricot;2.1
+6;Marron;5
+96;Laitue romaine;4.7
+22;Bette;2.2
+84;Betterave rouge;7
+20;Laitue romaine;4.3
+108;Potimarron;7.7
+145;Catalonia;3.8
+162;Noix;8
+187;Chou-chinois;5.7
+241;Pamplemousse;6.9
+280;Grenade;7.8
+234;Pâtisson;5.9
+185;Brocoli;1.6
+255;Coing;6.3
+295;Chou Romanesco;1
+156;Cerise;4.5
+60;Céleri branche;3.4
+14;Melon;3.9
+235;Céleri branche;0.9
+116;Poire;0.8
+95;Salsifis;0.5
+235;Mirabelle;4.3
+312;Maïs;4.9
+90;Haricot;3.6
+195;Chou de Bruxelles;7.3
+156;Avocat;2.2
+263;Carotte;2.9
+216;Navet;4.6
+265;Kumquat;2
+241;Châtaigne;7.9
+127;Salsifis;0.3
+256;Litchi;6.8
+147;Kaki;6.6
+73;Pastèque;1.5
+202;Poireau;4.4
+104;Chou-rave;4.5
+224;Epinard;1.9
+199;Myrtille;2.3
+193;Abricot;3.1
+162;Kumquat;5.3
+238;Cima di Rapa;5.5
+84;Céleri branche;3.8
+214;Datte;2.5
+42;Radis;6.8
+261;Litchi;1.8
+325;Cerise;3.9
+252;Salsifis;4.5
+262;Pomme de terre;1.8
+126;Papaye;3.5
+40;Orange sanguine;6.9
+203;Ail;7.6
+243;Ananas;2.3
+78;Raisin;5.5
+234;Amande;5.5
+211;Orange sanguine;1.4
+38;Datte;1.5
+182;Bette;7.9
+313;Orange sanguine;3.2
+205;Coing;3.2
+268;Poivron;0.3
+157;Carotte;5.1
+211;Pomme;5.4
+152;Pois mange-tout;4.2
+53;Framboise;4.8
+240;Myrtille;5.4
+234;Tomate;7
+71;Kiwi;0.3
+131;Ananas;5.6
+162;Petit pois;7.3
+297;Betterave rouge;0.4
+49;Fraise;1.9
+227;Topinambour;6.2
+75;Orange;3.1
+200;Potiron;3
+288;Céleri branche;8
+302;Mûre;2.3
+98;Clémentine;6.2
+324;Marron;2
+19;Chou-fleur;0.3
+13;Melon;6.7
+277;Pamplemousse;7.1
+218;Chou-chinois;1.1
+203;Fenouil;1
+19;Ail;5.3
+241;Carotte;2.6
+51;Cima di Rapa;6.6
+107;Orange;2.6
+217;Poire;7.4
+283;Kumquat;2.4
+8;Avocat;1.5
+157;Myrtille;3.5
+298;Courge;1.1
+30;Noisette;6.6
+284;Haricot;6.9
+181;Cresson;3.3
+302;Nectarine;3.8
+144;Pastèque;6.7
+1;Epinard;4.8
+167;Potimarron;0.8
+245;Amande;1.8
+202;Mûre;2
+280;Concombre;3.9
+216;Ail;4.4
+47;Myrtille;4.9
+41;Pastèque;5.7
+161;Pâtisson;3.3
+232;Datte;3.5
+180;Kiwi;6.8
+106;Chou-fleur;4.2
+276;Poire;3.8
+283;Papaye;2.9
+197;Mirabelle;2.1
+226;Céleri branche;2.2
+187;Grenade;7.8
+127;Mâche;7.5
+244;Chou-rave;1.3
+256;Mâche;7.5
+102;Artichaut;2.7
+41;Kumquat;1.3
+250;Clémentine;7.7
+183;Chou Romanesco;6.5
+224;Maïs;7.2
+270;Mâche;5.8
+203;Mâche;4.1
+201;Chou-rave;4.5
+264;Fenouil;3.7
+353;Pomme de terre;4
+293;Kumquat;2.8
+336;Maïs;1.9
+48;Concombre;5
+302;Fenouil;4.6
+267;Céleri rave;2.4
+274;Grenade;2.3
+347;Kaki;4.4
+325;Betterave rouge;6.1
+30;Aubergine;4.2
+239;Catalonia;1.9
+33;Mûre;6.7
+316;Chou frisé;8
+206;Pêche;6.1
+41;Reine-claude;3.8
+13;Banane;1.3
+369;Pêche;6
+237;Raisin;4.6
+191;Ail;2.3
+53;Chou blanc;1.9
+134;Figue fraîche;0.1
+243;Laitue romaine;8
+56;Chou-rave;2.8
+272;Orange;4.4
+163;Avocat;7.4
+5;Litchi;2.1
+20;Chou frisé;4.8
+390;Panais;0.8
+210;Panais;1.8
+92;Figue fraîche;0.3
+286;Epinard;6.2
+239;Potiron;3.7
+130;Courge;2.6
+376;Rhubarbe;3.5
+234;Maïs;1.8
+253;Haricot;1.9
+232;Airelle;4.8
+224;Mûre;1.1
+186;Céleri;5.8
+323;Kumquat;0.9
+170;Avocat;7.1
+197;Figue fraîche;4.8
+44;Asperge blanche;6.5
+397;Pamplemousse;4.8
+397;Cima di Rapa;5.9
+236;Mâche;2.6
+39;Haricot;2.9
+383;Catalonia;3.8
+279;Poire;3.3
+276;Citron;0.2
+240;Mâche;4.8
+92;Orange sanguine;0.6
+55;Litchi;7.4
+324;Kumquat;3.6
+362;Figue fraîche;4.2
+312;Myrtille;6.4
+282;Potiron;6.9
+330;Pomme;0.5
+305;Banane;0.7
+382;Pomme;0.8
+67;Reine-claude;2.2
+273;Reine-claude;0.7
+160;Petit pois;1.2
+239;Asperge verte;1.6
+373;Orange;1.5
+330;Potiron;7.5
+91;Asperge blanche;6.3
+237;Oignon;1.2
+396;Raisin;3.7
+401;Pois mange-tout;0.6
+110;Petit pois;1.8
+425;Pêche;4.6
+190;Chou Romanesco;4.4
+13;Poivron;8
+53;Kaki;4.1
+202;Poire;0.5
+91;Clémentine;0.9
+197;Rhubarbe;0.2
+11;Asperge verte;3.6
+276;Laitue romaine;5.9
+51;Poivron;5.8
+187;Chou-fleur;8
+25;Radis;1.4
+315;Mandarine;6.2
+415;Marron;7.4
+391;Ananas;0.1
+102;Pâtisson;3.3
+371;Fruit de la passion;4.7
+219;Reine-claude;2
+359;Chou frisé;7.8
+286;Pâtisson;7.7
+344;Orange sanguine;0.9
+398;Fruit de la passion;3.8
+321;Groseille;7.4
+315;Kaki;6
+387;Fenouil;6.2
+111;Potimarron;3.8
+208;Céleri;6.8
+134;Aubergine;3.6
+183;Poireau;5.5
+173;Noisette;2.8
+261;Mûre;3.8
+321;Pomme;6
+323;Marron;1.6
+267;Prune;4.9
+226;Chou Romanesco;1.2
+440;Cassis;3.5
+115;Clémentine;7.2
+376;Endive;4.8
